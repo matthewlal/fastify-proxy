@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "@fastify/http-proxy": "^9.5.0",
+    "fastify": "^4.28.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.5"
+  },
+  "name": "fastify-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewlal/fastify-proxy.git"
+  },
+  "keywords": [
+    "fastify",
+    "proxy",
+    "http-proxy",
+    "railway",
+    "template"
+  ],
+  "author": "Matthew Lal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewlal/fastify-proxy/issues"
+  },
+  "homepage": "https://github.com/matthewlal/fastify-proxy#readme"
+}
